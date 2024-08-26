@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE buildprofiles SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-profiles.dtd">
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <variables></variables>
+    <build-profile instance="mhd">
+        <variables>
+            <noindex-content>true</noindex-content>
+            <color-preset>deep ocean</color-preset>
+            <link-color>iris</link-color>
+            <custom-favicons>./favicon.png</custom-favicons>
+        </variables>
+
+        <footer>
+            <copyright>Moini Hosting</copyright>
+            <social type="email" href="support@moini-hosting.de"/>
+            <social type="youtube" href="https://youtube.com/@Moini-Hosting"/>
+            <social type="instagram" href="https://www.instagram.com/moinihosting"/>
+            <link href="https://moini-hosting.de">Main Site</link>
+            <link href="https://panel.moini-hosting.de">Panel</link>
+        </footer>
+    </build-profile>
+
+</buildprofiles>

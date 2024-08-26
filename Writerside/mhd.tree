@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="mhd"
+                 name="Docs | Moini Hosting"
+                 start-page="welcome.md">
+
+    <toc-element topic="welcome.md"/>
+    <toc-element topic="server.md"/>
+    <toc-element topic="user.md"/>
+    <toc-element topic="howtoserver.md"/>
+</instance-profile>
